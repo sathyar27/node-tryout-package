@@ -1,0 +1,29 @@
+{
+  "name": "sample",
+  "version": "1.0.0",
+  "description": "node sample project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node package-index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sathyar27/nodesample.git"
+  },
+  "keywords": [
+    "node",
+    "sample"
+  ],
+  "author": "sathya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathyar27/nodesample/issues"
+  },
+  "homepage": "https://github.com/sathyar27/nodesample#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "gulp": "^3.9.1",
+    "node-redshift": "^0.1.5",
+    "ramda": "^0.25.0"
+  }
+}
